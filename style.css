@@ -1,0 +1,55 @@
+ body{
+ 	padding-top: 3.6em;
+ }
+
+.carousel .fill {
+	width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.carousel .item,
+.carousel .item.active,
+.carousel .carousel-inner {
+	width: 100%;
+	height: 25em;
+
+}
+
+.bottom {
+	padding-top: .125em;
+}
+
+.pictures {
+	margin-bottom: 2em;
+}
+
+@media (max-width:768px){
+	.pics{margin-bottom: 1em;}
+	.pictures{margin-bottom: 0em;}
+}
+
+p.text{
+	padding: 5px 0px 15px 0px;
+}
+
+.as {
+	margin-top: 1em;
+}
+
+.tabs {
+	margin-top: 2.5em;
+}
+
+.nav
+
+.details {
+	margin-top: 1em;
+}
+
+
+.service-font {
+	font-size: 1.25em;
+}
